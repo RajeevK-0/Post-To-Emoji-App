@@ -1,0 +1,20 @@
+0	❤️	 Red heart	
+1	😍	 Smiling face with hearteyes	
+2	😂	 Face with tears of joy	
+3	💕	 Two hearts
+4	🔥	 Fire
+5	😊	 Smiling face with smiling eyes	
+6	😎	 Smiling face with sunglasses	
+7	✨	 Sparkles 	
+8	💙	 Blue heart
+9	😘	 Face blowing a kiss	
+10	📷	 Camera	
+11	🌏	 world
+12	☀️	 Sun
+13	💜	 Purple heart 	
+14	😉	 Winking face	
+15	💯	 Hundred points	
+16	😁	 Beaming face with smiling eyes	
+17	🎄	Christmas tree	
+18	📸	Camera with flash
+19	😜	Winking face with tongue	
