@@ -6,9 +6,9 @@ from keras.preprocessing.sequence import pad_sequences
 import re
 
 
-st.set_page_config(page_title="Text To Emoji App", page_icon="🤖")
-st.title("🖹➡️😄 Text-to-Emoji-App")
-st.write("Type a sentence below, and the BiLSTM model will predict the sentiment!")
+st.set_page_config(page_title="Social Media Post To Emoji App", page_icon="🤖")
+st.title("💬➡️😄 Post-To-Emoji-App")
+st.write("Paste a post or type a post below, and the BiLSTM model will predict the sentiment!")
 
 @st.cache_resource
 def load_ml_artifacts():
